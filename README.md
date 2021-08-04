@@ -1,7 +1,11 @@
-# team-doudna
- def introduction():
-     Name = "Azeezat"
-     Email=  "oluwatobiosikoya1@gmail.com"
-     Slack username = "@Azeezat"
-     Biostack= "drug development"
-Print(fname: {name}\n email-ID\nslack id:{slack username}\nbiostack:{biostack}")
+ java.util.*;
+public class Azeezat_Stage0_script
+{
+           public static void main(String[] args) {
+               String name, email, biostack ;
+               System.out.println("Name = Azeezat Osikoya: ");
+               System.out.println("Email = oluwatobioskoya1@gmail.com : ");
+               System.out.println("slack username = Azeezat : ");
+               System.out.println("Biostack = Drug Development: ");
+            }
+}
